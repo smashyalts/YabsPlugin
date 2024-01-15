@@ -1,0 +1,4 @@
+name: YabsPlugin
+version: '${project.version}'
+main: net.craftsupport.testcat.TestCat
+api-version: '1.20'
